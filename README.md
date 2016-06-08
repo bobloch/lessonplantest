@@ -12,6 +12,9 @@ The idea here is a proof of concept of taking one lesson and how/if teachers can
 For an overview of how to do this, try this page: 
 https://guides.github.com/activities/hello-world/  
 
+See the file "LessonTest" for a very brief lesson plan description and what I'd like others to do is:
+1) Suggest improvements via pull requests
+2) "Fork" the lesson version to make your own version
 
 
--Brandon Dorman (@dormanmath) 
+-Brandon Dorman (@dormanmath on twitter) 
